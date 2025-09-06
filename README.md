@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# synergyxodoo
-=======
 # React Authentication App
 
 A complete React authentication application with routing, login, register, and protected dashboard functionality. Built to work both as a website and mobile app.
@@ -144,6 +140,3 @@ Since this is a frontend-only implementation, you can test the authentication fl
 - Modern browsers (Chrome, Firefox, Safari, Edge)
 - Mobile browsers (iOS Safari, Chrome Mobile)
 - Responsive design works on all screen sizes
->>>>>>> 865f20fd (First commit)
-=======
->>>>>>> faff4409 (Clean up project: remove old files and node_modules from version control)
